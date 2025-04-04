@@ -33,12 +33,12 @@ Below is a sample image of how the fruit quality detection model works:
 4. Run the classification by **showing a fruit** to the camera or uploading an image.  
 
 ## 📥 Download Project Files  
-🔹 **[Good_fruits](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/Good%20fruits.zip)**   
-🔹 **[Bad_fruits](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/Bad%20fruits.zip)**   
+🔹 **[Good_Fruits](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/Good%20fruits.zip)**   
+🔹 **[Bad_Fruits](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/Bad%20fruits.zip)**   
 🔹 **[Web_Interface_Aligment_Code](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/HTML_CSS_Alignment.txt)**   
-🔹 **[Teachable_machine_Image_result_Model_converted_code](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/HTML_JS_TF_Converted_code.txt)**   
+🔹 **[Teachable_Machine_Fruits_Model_Converted_Code](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/HTML_JS_TF_Converted_code.txt)**   
 🔹 **[Teachable_machine_Fruits_result_Model](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/Good_fruits_and_Bad_fruits.tm)**   
-🔹 **[Teachable_machine_Image_result_Model](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/TM_Image_Model_Result.png)**   
+🔹 **[Teachable_Machine_Fruits_Result_Model_Image](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/TM_Image_Model_Result.png)**   
 
 ## 🌐 Live Demo  
 🔗 **[View Project Website](https://sensational-liger-bbcfd4.netlify.app/)** 
