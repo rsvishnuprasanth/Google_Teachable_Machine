@@ -3,11 +3,6 @@
 ## 🌟 Overview  
 This project focuses on **fruit quality detection** using **Google Teachable Machine**, an AI-based tool for image classification. The model is trained to classify fruits as **"Good" or "Bad"** based on real-time image inputs from a webcam or uploaded images.  
 
-## 🖼️ Project Preview  
-Below is a sample image of how the fruit quality detection model works:  
-
-![Project Preview](http://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Smart_fruit_Quality_Check/TM_Image_Model_Result.png)  
-
 ## ✨ Features  
 ✅ **Real-time classification** of fruits using a trained AI model  
 ✅ **Uses Google Teachable Machine** for image-based learning  
