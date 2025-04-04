@@ -6,7 +6,7 @@ This project focuses on **fruit quality detection** using **Google Teachable Mac
 ## 🖼️ Project Preview  
 Below is a sample image of how the fruit quality detection model works:  
 
-![Project Preview](https://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Teachable%20Machine/TM_Image_Model_Result.png)  
+![Project Preview](http://github.com/rsvishnuprasanth/Google_Teachable_Machine/blob/main/Smart_fruit_Quality_Check/TM_Image_Model_Result.png)  
 
 ## ✨ Features  
 ✅ **Real-time classification** of fruits using a trained AI model  
